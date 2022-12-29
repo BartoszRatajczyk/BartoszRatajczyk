@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BartoszRatajczyk
-- 👀 I’m interested in ... Video game development
-- 🌱 I’m currently learning ...  C++
+- 👀 I’m interested in ... Web development
+- 🌱 I’m currently learning ...  JavaScript, HTML, CSS
 
 
 <!---
